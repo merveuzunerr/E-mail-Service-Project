@@ -36,6 +36,13 @@
 
 ```http
   PUT api/users/{id}
+ Json raw:
+{      "emailAdress": "xxxxx@ssttek.com",
+        "firstName": "xxx",
+        "lastName": "xxx"
+}
+
+
 ```
 ## Mail
 
