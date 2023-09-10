@@ -20,7 +20,7 @@
   Json raw:
 {      "emailAdress": "xxxxx@ssttek.com",
         "firstName": "xxx",
-        "lastName": "xxx"``
+        "lastName": "xxx"
 }
 
 
@@ -31,8 +31,7 @@
   DELETE /api/users/{id}
 ```
 
-```
-```
+
 #### To update user by id
 
 ```http
@@ -69,7 +68,4 @@
 
 ```http
   DELETE /api/mails/{id}
-```
-
-```
 ```
