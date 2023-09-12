@@ -1,6 +1,6 @@
 ## API USE
 ## User
-#### To get User
+#### To get user
 
 ```http
   GET https://localhost:xxxx/api/users
